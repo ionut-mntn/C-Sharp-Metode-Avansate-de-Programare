@@ -1,0 +1,13 @@
+E:\Facultate\sem III\MAP - Metode Avansate de Programare\C#\probaPropertiesIndexer\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+E:\Facultate\sem III\MAP - Metode Avansate de Programare\C#\probaPropertiesIndexer\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+E:\Facultate\sem III\MAP - Metode Avansate de Programare\C#\probaPropertiesIndexer\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+E:\Facultate\sem III\MAP - Metode Avansate de Programare\C#\probaPropertiesIndexer\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+E:\Facultate\sem III\MAP - Metode Avansate de Programare\C#\probaPropertiesIndexer\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\Facultate\sem III\MAP - Metode Avansate de Programare\C#\probaPropertiesIndexer\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\Facultate\sem III\MAP - Metode Avansate de Programare\C#\probaPropertiesIndexer\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+E:\Facultate\sem III\MAP - Metode Avansate de Programare\C#\probaPropertiesIndexer\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+E:\Facultate\sem III\MAP - Metode Avansate de Programare\C#\probaPropertiesIndexer\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+E:\Facultate\sem III\MAP - Metode Avansate de Programare\C#\probaPropertiesIndexer\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Facultate\sem III\MAP - Metode Avansate de Programare\C#\probaPropertiesIndexer\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\Facultate\sem III\MAP - Metode Avansate de Programare\C#\probaPropertiesIndexer\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\Facultate\sem III\MAP - Metode Avansate de Programare\C#\probaPropertiesIndexer\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

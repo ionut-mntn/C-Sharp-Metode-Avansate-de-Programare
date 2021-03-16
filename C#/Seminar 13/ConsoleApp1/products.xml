@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Shop>
+	<Products>
+		<Product id="11">
+			<Name>Laptop</Name>
+			<Quantity>1</Quantity>
+			<Price>5000</Price>
+		</Product>
+		<Product id="13">
+			<Name>Keyboard</Name>
+			<Quantity>12</Quantity>
+			<Price>1000</Price>
+		</Product>
+	</Products>
+</Shop>

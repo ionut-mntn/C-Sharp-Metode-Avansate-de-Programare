@@ -1,0 +1,13 @@
+E:\Facultate\sem III\MAP - Metode Avansate de Programare\C#\probaGenerics\probaGenerics\probaGenerics\bin\Debug\netcoreapp3.1\probaGenerics.exe
+E:\Facultate\sem III\MAP - Metode Avansate de Programare\C#\probaGenerics\probaGenerics\probaGenerics\bin\Debug\netcoreapp3.1\probaGenerics.deps.json
+E:\Facultate\sem III\MAP - Metode Avansate de Programare\C#\probaGenerics\probaGenerics\probaGenerics\bin\Debug\netcoreapp3.1\probaGenerics.runtimeconfig.json
+E:\Facultate\sem III\MAP - Metode Avansate de Programare\C#\probaGenerics\probaGenerics\probaGenerics\bin\Debug\netcoreapp3.1\probaGenerics.runtimeconfig.dev.json
+E:\Facultate\sem III\MAP - Metode Avansate de Programare\C#\probaGenerics\probaGenerics\probaGenerics\bin\Debug\netcoreapp3.1\probaGenerics.dll
+E:\Facultate\sem III\MAP - Metode Avansate de Programare\C#\probaGenerics\probaGenerics\probaGenerics\bin\Debug\netcoreapp3.1\probaGenerics.pdb
+E:\Facultate\sem III\MAP - Metode Avansate de Programare\C#\probaGenerics\probaGenerics\probaGenerics\obj\Debug\netcoreapp3.1\probaGenerics.csprojAssemblyReference.cache
+E:\Facultate\sem III\MAP - Metode Avansate de Programare\C#\probaGenerics\probaGenerics\probaGenerics\obj\Debug\netcoreapp3.1\probaGenerics.AssemblyInfoInputs.cache
+E:\Facultate\sem III\MAP - Metode Avansate de Programare\C#\probaGenerics\probaGenerics\probaGenerics\obj\Debug\netcoreapp3.1\probaGenerics.AssemblyInfo.cs
+E:\Facultate\sem III\MAP - Metode Avansate de Programare\C#\probaGenerics\probaGenerics\probaGenerics\obj\Debug\netcoreapp3.1\probaGenerics.csproj.CoreCompileInputs.cache
+E:\Facultate\sem III\MAP - Metode Avansate de Programare\C#\probaGenerics\probaGenerics\probaGenerics\obj\Debug\netcoreapp3.1\probaGenerics.dll
+E:\Facultate\sem III\MAP - Metode Avansate de Programare\C#\probaGenerics\probaGenerics\probaGenerics\obj\Debug\netcoreapp3.1\probaGenerics.pdb
+E:\Facultate\sem III\MAP - Metode Avansate de Programare\C#\probaGenerics\probaGenerics\probaGenerics\obj\Debug\netcoreapp3.1\probaGenerics.genruntimeconfig.cache
